@@ -4,6 +4,6 @@
 	
 	$user = "admin"; // username
 	$passw = "jbroon123"; // password
-	$apikey = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"; // Find your API Key at https://steamcommunity.com/dev/apikey
+	$apikey = "51484A2D2ACC8159882AEE0A90541C57"; // Find your API Key at https://steamcommunity.com/dev/apikey
 
 ?>
